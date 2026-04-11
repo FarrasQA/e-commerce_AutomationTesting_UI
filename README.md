@@ -7,7 +7,7 @@ This project is an automated UI testing framework for an e-commerce web applicat
 The test scenario is implemented on the following website:
 https://practice.expandtesting.com/bookstore/
 
-The main test scenario covers an end-to-end purchase flow, including:
+The main test scenario covers end-to-end purchase flow, including:
 
 * User login
 * Navigate to product page
