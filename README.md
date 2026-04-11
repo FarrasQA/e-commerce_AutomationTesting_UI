@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is an automated UI testing framework for an e-commerce web application using Selenium WebDriver, Java, and TestNG.
+This project is an automated UI testing framework for an e-commerce web application using Selenium WebDriver and TestNG.
 
 The test scenario is implemented on the following website:
 https://practice.expandtesting.com/bookstore/
